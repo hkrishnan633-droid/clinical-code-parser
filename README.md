@@ -1,2 +1,2 @@
 # clinical-code-parser
-My first healthcare python project
+This is my first healthcare project.I tried it out myself and it seems to work well.Very good.
